@@ -1,75 +1,78 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=850&lines=Cybersecurity+Student;Security+Analysis+%7C+Vulnerability+Research+%7C+SOC+Focus;Building+Real-World+Defensive+Security+Skills" />
+</p>
+
 # Denish Adhikari
 
-Cybersecurity Student | Aspiring Security Analyst | SOC & Vulnerability Management Focus
+Cybersecurity Student | Aspiring Security Analyst
 
 ---
 
-## Profile Summary
+## About
 
-I am a cybersecurity student focused on understanding real-world attack techniques and defensive security mechanisms through hands-on labs and structured security testing environments. My primary interest lies in vulnerability discovery, exploitation analysis, and building effective mitigation strategies aligned with industry security standards.
+I focus on understanding how systems are compromised and how they can be defended in real-world environments. My learning approach is hands-on, working with security labs, vulnerability assessments, and controlled exploitation scenarios to build practical cybersecurity thinking rather than just theoretical knowledge.
 
-I actively work in controlled environments to simulate attacks and analyze system weaknesses from both offensive and defensive perspectives.
+I am currently developing skills aligned with **SOC operations, vulnerability management, and application security analysis**.
 
 ---
 
-## Technical Focus
+## Security Focus
 
-- Web Application Security & OWASP Top 10 Exploitation
-- Vulnerability Assessment & Risk Analysis
-- Network Reconnaissance & Traffic Analysis
-- Linux System Security & Server Hardening
-- SOC Operations & Security Monitoring Fundamentals
+- Web Application Security (OWASP Top 10)
+- Vulnerability Assessment & Exploitation Analysis
+- Network Reconnaissance & Attack Surface Mapping
+- Linux Security & System Hardening
+- SOC Monitoring & Incident Response Fundamentals
 
 ---
 
 ## Technical Skills
 
-**Security Tools & Platforms**
-- Nessus – Vulnerability Scanning & Reporting
-- Nmap – Network Discovery & Service Enumeration
-- WebGoat – Application Security Testing
-- Kali Linux – Offensive Security Environment
+**Security Tools**
+- Nessus – Vulnerability scanning and risk analysis
+- Nmap – Network discovery and service enumeration
+- WebGoat – Application security testing environment
+- Kali Linux – Offensive security toolkit
 
-**Core Security Concepts**
-- SQL Injection (Auth bypass, data extraction techniques)
-- Cross-Site Scripting (Reflected, Stored, DOM-based)
-- CSRF attack flow & mitigation strategies
-- Network enumeration & attack surface mapping
-- CVSS-based vulnerability classification
-- Linux service configuration & hardening practices
-
----
-
-## Projects & Security Labs
-
-### Secure E-Commerce Infrastructure
-Designed and secured a WordPress-based e-commerce system with focus on authentication security, SSL implementation, firewall configuration, and system hardening. Emphasis was placed on reducing attack surface and enforcing secure access control mechanisms.
+**Core Security Knowledge**
+- SQL Injection, XSS, CSRF exploitation techniques
+- Vulnerability classification using CVSS concepts
+- DNS enumeration and network mapping
+- Linux server configuration and hardening practices
+- Basic security monitoring and log interpretation
 
 ---
 
-### Web Application Exploitation Lab
-Conducted structured security testing against intentionally vulnerable applications to analyze exploitation paths including SQL Injection, XSS, CSRF, and Buffer Overflow scenarios. Each vulnerability was mapped to its root cause and corresponding mitigation strategy.
+## Projects
+
+### Secure E-Commerce System
+Built and secured a WordPress-based e-commerce application with SSL encryption, authentication controls, firewall configuration, and basic system hardening to reduce exposure to common web attacks.
 
 ---
 
-### Vulnerability Assessment & Reporting (Nessus)
-Performed internal system and network vulnerability assessments using Nessus. Identified critical and high-risk vulnerabilities, performed severity classification using CVSS scoring, and documented remediation recommendations aligned with security best practices.
+### Web Application Security Lab
+Conducted structured testing against vulnerable applications to analyze real-world attack vectors such as SQL Injection, XSS, and CSRF. Focused on understanding how vulnerabilities are exploited and how they can be mitigated at the code and configuration level.
 
 ---
 
-### Linux Server Security & Hardening
-Configured a full LAMP stack environment (Apache, MySQL, PHP) on Linux systems and implemented baseline security controls including SSL encryption, permission hardening, and service-level security configurations.
+### Vulnerability Assessment (Nessus)
+Performed internal system and network vulnerability scans using Nessus. Identified security weaknesses, categorized risks based on severity, and documented remediation steps aligned with best practices.
 
 ---
 
-### Network Reconnaissance & Enumeration Lab
-Executed structured reconnaissance workflows using Nmap and DNS analysis tools to identify open ports, exposed services, and potential attack vectors. Focused on understanding early-stage attacker methodology and system exposure analysis.
+### Linux Server Security Setup
+Configured a LAMP stack environment (Apache, MySQL, PHP) and implemented baseline security controls including SSL setup, service hardening, and permission management.
 
 ---
 
-## Career Objective
+### Network Reconnaissance Lab
+Executed reconnaissance workflows using Nmap and DNS tools to identify open ports, active services, and potential attack vectors. Focused on understanding early-stage attacker methodology and system exposure.
 
-My objective is to transition into a Security Analyst role with a strong focus on SOC operations, vulnerability lifecycle management, and threat detection. I aim to develop expertise in identifying security risks, analyzing attack patterns, and contributing to organizational security posture through structured defensive strategies.
+---
+
+## Career Direction
+
+Focused on transitioning into a **Security Analyst / SOC role**, with emphasis on vulnerability management, threat detection, and incident analysis. Currently strengthening practical experience through continuous lab work in both offensive and defensive security domains.
 
 ---
 
