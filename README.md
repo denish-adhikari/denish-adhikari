@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%7C+Security+Analysis+Focus;Vulnerability+Research+%7C+SOC+Operations+%7C+Blue+Team+Path;Building+Practical+Defensive+Security+Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00BFFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%7C+Security+Analysis+Focus;Vulnerability+Assessment+%7C+SOC+%7C+Blue+Team+Security;Hands-on+Security+Lab+%7C+Attack+%26+Defense+Analysis" />
 </p>
 
 # Denish Adhikari  
@@ -36,8 +36,6 @@ I approach cybersecurity from both attacker and defender perspectives to better 
 - Nmap → Network discovery, port scanning, service enumeration  
 - Kali Linux → Offensive security testing environment  
 - WebGoat → Secure coding exploitation practice lab  
-
-(:contentReference[oaicite:0]{index=0} | :contentReference[oaicite:1]{index=1})
 
 ---
 
@@ -77,8 +75,6 @@ Designed and evaluated a WordPress-based e-commerce application with a focus on 
 - Identified missing security headers and HTTPS misconfigurations
 - Applied firewall protection using Wordfence
 - Produced structured risk analysis and remediation plan
-
-(:contentReference[oaicite:2]{index=2} | :contentReference[oaicite:3]{index=3} | :contentReference[oaicite:4]{index=4})
 
 ---
 
