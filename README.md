@@ -2,82 +2,157 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student+%7C+Security+Analysis+Focus;Vulnerability+Research+%7C+SOC+Operations+%7C+Blue+Team+Path;Building+Practical+Defensive+Security+Expertise" />
 </p>
 
-# Denish Adhikari
-
-Cybersecurity Student | Aspiring Security Analyst
+# Denish Adhikari  
+Cybersecurity Student | Aspiring Security Analyst (SOC / Blue Team)
 
 ---
 
 ## Overview
 
-I specialize in analyzing system and application vulnerabilities through structured security labs and controlled testing environments. My focus is on understanding attack methodologies, identifying security weaknesses, and applying mitigation strategies aligned with industry security practices.
+I am focused on cybersecurity analysis with an emphasis on identifying, evaluating, and mitigating vulnerabilities across web applications and networked systems.
 
-My learning approach emphasizes **hands-on security engineering over theory**, with continuous exposure to offensive techniques and defensive countermeasures.
+My work is centered around structured security assessments, attack surface analysis, and defensive security validation in controlled lab environments.
+
+I approach cybersecurity from both attacker and defender perspectives to better understand exploitation techniques and strengthen system resilience.
 
 ---
 
-## Security Focus
+## Security Focus Areas
 
 - Web Application Security (OWASP Top 10 exploitation & mitigation)
-- Vulnerability Assessment & Risk Analysis
+- Vulnerability Assessment & Risk Prioritization
 - Network Reconnaissance & Attack Surface Mapping
 - Linux System Security & Infrastructure Hardening
 - SOC Operations & Security Monitoring Fundamentals
+- Security Misconfiguration Analysis & Remediation
 
 ---
 
 ## Technical Competencies
 
-**Security Tooling**
-- Nessus → Vulnerability scanning, risk prioritization, reporting
-- Nmap → Network discovery, service enumeration, exposure mapping
-- WebGoat → Application security testing and exploitation practice
-- Kali Linux → Offensive security and lab-based testing environment
+### Security Tools & Platforms
 
-**Core Security Knowledge**
-- Web exploitation techniques (SQL Injection, XSS, CSRF)
-- Vulnerability classification using CVSS concepts
-- DNS enumeration and network footprinting
-- Linux service configuration and security hardening
-- Basic log interpretation and incident detection concepts
+- Nessus → Vulnerability scanning, CVE-based risk analysis, reporting  
+- Nmap → Network discovery, port scanning, service enumeration  
+- Kali Linux → Offensive security testing environment  
+- WebGoat → Secure coding exploitation practice lab  
+
+(:contentReference[oaicite:0]{index=0} | :contentReference[oaicite:1]{index=1})
 
 ---
 
-## Project Work & Security Labs
+### Core Security Knowledge
 
-### Secure E-Commerce Platform Hardening
-Designed and secured a WordPress-based e-commerce system with focus on authentication controls, SSL encryption, firewall configuration, and system-level hardening. The objective was to reduce common web attack vectors and enforce secure deployment practices.
+- Web exploitation techniques (SQL Injection, XSS, CSRF)
+- Vulnerability classification using CVSS concepts
+- Network footprinting and DNS enumeration
+- Linux service hardening and permission control
+- Security log interpretation and incident detection fundamentals
+
+---
+
+## Security Methodology
+
+I follow a structured security assessment lifecycle:
+
+1. Reconnaissance & Attack Surface Discovery  
+2. Network & Application Scanning  
+3. Vulnerability Identification & Classification  
+4. Exploitation Simulation (Lab Environments)  
+5. Risk Analysis & Impact Assessment  
+6. Mitigation & Security Hardening Recommendations  
+
+This approach aligns with real-world SOC and vulnerability management workflows.
+
+---
+
+## Project Experience
+
+### Secure E-Commerce Web Application Security Assessment
+
+Designed and evaluated a WordPress-based e-commerce application with a focus on security hardening and vulnerability analysis.
+
+- Implemented authentication security controls (2FA, access restrictions)
+- Performed vulnerability scanning using OWASP ZAP
+- Identified missing security headers and HTTPS misconfigurations
+- Applied firewall protection using Wordfence
+- Produced structured risk analysis and remediation plan
+
+(:contentReference[oaicite:2]{index=2} | :contentReference[oaicite:3]{index=3} | :contentReference[oaicite:4]{index=4})
 
 ---
 
 ### Web Application Security Analysis Lab
-Performed structured security testing on intentionally vulnerable applications to study exploitation behavior across OWASP vulnerabilities. Focus areas included SQL Injection, Cross-Site Scripting, and CSRF, with emphasis on root-cause analysis and mitigation mapping.
+
+Conducted structured testing on intentionally vulnerable applications to analyze exploitation behavior.
+
+- SQL Injection exploitation and detection
+- Cross-Site Scripting (XSS) testing
+- CSRF vulnerability analysis
+- Root cause identification and mitigation mapping
+
+Focus: translating exploitation behavior into defensive controls.
 
 ---
 
-### Vulnerability Assessment & Risk Reporting (Nessus)
-Executed vulnerability scans on system and network environments using Nessus. Identified security weaknesses, classified risk levels based on severity, and documented remediation strategies aligned with security best practices and CVSS interpretation.
+### Vulnerability Assessment & Risk Reporting (Nessus Lab)
+
+Performed system and network vulnerability assessments in a controlled lab environment.
+
+- Identified critical, high, and medium severity vulnerabilities
+- Analyzed CVE-based findings and risk exposure
+- Prioritized remediation based on exploitability and impact
+- Produced structured security reports aligned with CVSS concepts
 
 ---
 
-### Linux Infrastructure Security Setup
-Configured and secured a full LAMP stack environment (Apache, MySQL, PHP) on Linux. Implemented baseline security controls including SSL deployment, service restriction, permission hardening, and exposure minimization.
+### Linux Infrastructure Security Hardening
+
+Configured and secured a LAMP-based Linux environment.
+
+- Apache web server configuration hardening
+- MySQL security baseline implementation
+- File permission and service restriction enforcement
+- SSL configuration and secure communication setup
 
 ---
 
-### Network Reconnaissance & Exposure Mapping
-Conducted structured reconnaissance using Nmap and DNS enumeration techniques to identify open ports, active services, and potential attack surfaces. Focused on understanding early-stage attacker methodology and system visibility in networks.
+### Network Reconnaissance & Attack Surface Mapping
+
+Performed structured reconnaissance using Nmap and DNS enumeration techniques.
+
+- Identified open ports and exposed services
+- Mapped system attack surface exposure
+- Analyzed service versions for potential vulnerabilities
+- Simulated attacker reconnaissance methodology
+
+---
+
+## Security Mindset
+
+I focus on understanding system weaknesses from an attacker’s perspective in order to design stronger defensive strategies.
+
+My goal is to develop practical capability in:
+- Threat detection
+- Vulnerability analysis
+- Incident interpretation
+- Defensive security engineering
 
 ---
 
 ## Professional Direction
 
-Currently focused on transitioning into a **Security Analyst (SOC) role**, with specialization in vulnerability management, security monitoring, and incident analysis.
+I am actively preparing for a Security Analyst (SOC) role with a focus on:
 
-Actively strengthening practical cybersecurity capabilities through continuous lab work in both offensive and defensive domains, with emphasis on real-world attack understanding and defensive response strategies.
+- Vulnerability Management
+- Security Monitoring & Alert Analysis
+- Incident Detection & Response
+- Attack Surface Reduction
+- Security Reporting & Documentation
 
 ---
 
-## Contact
+## GitHub
 
-GitHub: denish-adhikari
+GitHub: denish-adhikari  
+Focus: Security Labs | Vulnerability Assessments | SOC Practice Projects
